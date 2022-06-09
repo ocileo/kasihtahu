@@ -16,6 +16,9 @@ const menuItems: MenuItem[] = [
     label: "Contact",
     href: "/contact",
   },
+  {
+    label: "Privacy Policy",
+    href:"/privacy-policy",
 ];
 
 const footer = {
