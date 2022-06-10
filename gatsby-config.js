@@ -1,5 +1,5 @@
-const siteName = "Kasih Tahu";
-const siteShortName = "Aku Kasih Tahu";
+const siteName = "Aku Kasih Tahu";
+const siteShortName = "Kasih Tahu";
 const siteUrl = "https://kasihtahu.my.id/";
 const siteDescription = "Aku Kasih Tahu | web berbagi informasi seputar dunia teknologi | Tutorial jalan pintas mempermudah aktifitas kerja Finance";
 const siteKeyword = "Bagaimana cara, Cara untuk, How to, teknologi terkini, Finance";
