@@ -13,7 +13,16 @@ imgAlt: keyboard
 tags:
   - Tutorial
 ---
-<!--StartFragment-->
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'adc29143c353157404ebff7c8e8220a5',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topdisplayformat.com/adc29143c353157404ebff7c8e8220a5/invoke.js"></scr' + 'ipt>');
+</script><!--StartFragment-->
 
 **Cara memperbaiki keyboard untuk laptop** - Banyak masalah klasik yang terjadi pada laptop kita, terutama pada keyboard untuk alat masukan perintah dalam pemerintahan komputer menjadi sangat rusak, mulai dari bip bip ini, suara terus menerus dan lain-lain. Sekarang lihat saran di bawah ini untuk membenarkan itu:
 
