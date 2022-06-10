@@ -17,8 +17,8 @@ const menuItems: MenuItem[] = [
     href:"/tags/Tutorial",
   },
   {
-    label:"Ada Info",
-    href:"/tags/info",
+    label:"Finance",
+    href:"tags/finance",
   },
   {
     label: "Contact",
