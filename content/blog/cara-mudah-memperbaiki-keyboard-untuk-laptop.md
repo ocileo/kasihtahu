@@ -7,7 +7,7 @@ description: "**Cara memperbaiki keyboard untuk laptop** - Banyak masalah klasik
   perintah dalam pemerintahan komputer menjadi sangat rusak, mulai dari bip bip
   ini, suara terus menerus dan lain-lain. Sekarang lihat saran di bawah ini
   untuk membenarkan itu:"
-featured: false
+featured: true
 img: ../../static/images/keyboard-backlight.jpeg
 imgAlt: keyboard
 tags:
