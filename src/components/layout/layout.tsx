@@ -13,6 +13,14 @@ const menuItems: MenuItem[] = [
     href: "/",
   },
   {
+    label:"Tutorial",
+    href:"/tags/Tutorial",
+  },
+  {
+    label:"Ada Info",
+    href:"/tags/info",
+  },
+  {
     label: "Contact",
     href: "/contact",
   },
