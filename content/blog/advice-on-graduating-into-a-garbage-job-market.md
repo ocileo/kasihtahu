@@ -6,7 +6,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl vel pretium
   lectus quam. Enim neque volutpat ac tincidunt vitae semper quis lectus. At
   erat pellentesque adipiscing commodo elit at.
-featured: true
+featured: false
 img: ../../static/images/tables.jpeg
 imgAlt: Get a table?
 tags:
