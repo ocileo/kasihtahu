@@ -2,7 +2,7 @@
 template: blog-post
 title: Cara mudah memperbaiki keyboard untuk laptop
 publishedDate: 2022-06-09T08:56:32.938Z
-description: "**Cara memperbaiki keyboard untuk laptop** - Banyak masalah klasik
+description: "Cara memperbaiki keyboard untuk laptop - Banyak masalah klasik
   yang terjadi pada laptop kita, terutama pada keyboard untuk alat masukan
   perintah dalam pemerintahan komputer menjadi sangat rusak, mulai dari bip bip
   ini, suara terus menerus dan lain-lain. Sekarang lihat saran di bawah ini
