@@ -1,8 +1,8 @@
-const siteName = "Sample Blog";
-const siteShortName = "Sample Blog";
-const siteUrl = "https://geek.sg/";
-const siteDescription = "Sample blog template";
-const siteKeyword = "";
+const siteName = "Kasih Tahu";
+const siteShortName = "Aku Kasih Tahu";
+const siteUrl = "https://kasihtahu.my.id/";
+const siteDescription = "Aku Kasih Tahu | web berbagi informasi seputar dunia teknologi | Tutorial jalan pintas mempermudah aktifitas kerja Finance";
+const siteKeyword = "Bagaimana cara, Cara untuk, How to, teknologi terkini, Finance";
 const siteLogo = "logo.png";
 const siteLogoFolder = `static/${siteLogo}`;
 
