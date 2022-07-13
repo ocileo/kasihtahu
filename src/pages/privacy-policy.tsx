@@ -4,7 +4,7 @@ import { Layout } from "../components/layout";
 export const ContactSuccess: FunctionComponent = () => {
   return (
     <Layout>
-      <h1>Privacy Policy for Kasih Tahu</h1>
+      ## Privacy Policy for Kasih Tahu
 
 <p>At Saya Kasih Tahu, accessible from kasihtahu.my.id, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Saya Kasih Tahu and how we use it.</p>
 
