@@ -1,1 +1,1 @@
-export * from "./adse.tsx";
+export * from "./shortcodes";
