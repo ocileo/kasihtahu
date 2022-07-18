@@ -20,16 +20,6 @@ export const Footer: FunctionComponent<Footer> = ({
   linkedin,
 }) => {
   return (
-    <script type="text/javascript">
-	atOptions = {
-		'key' : 'adc29143c353157404ebff7c8e8220a5',
-		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://colourevening.com/adc29143c353157404ebff7c8e8220a5/invoke.js"></scr' + 'ipt>');
-</script>
     <div className="bg-white">
       <div className="max-w-screen-xl mx-auto py-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
         <div className="flex justify-center md:order-2">
