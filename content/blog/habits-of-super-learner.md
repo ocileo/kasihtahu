@@ -4,7 +4,7 @@ title: Habits of super learner
 publishedDate: 2020-08-14T12:00:28.345Z
 description: "Habits of super learner In a globe that is altering quick, the
   capcapacity towards discover a brand-new ability as quick as feasible is
-  actually rapidly ending up being a requirement. "
+  actually rapidly ending up being a requirement.  "
 featured: false
 img: ../../static/images/girl-on-phone.jpeg
 imgAlt: Habits of super learner
