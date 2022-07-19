@@ -4,7 +4,7 @@ title: Tips Menambah Subscribers !! Nomor 3 paling ampuh
 publishedDate: 2022-07-19T09:33:12.143Z
 description: Menambah subscriber dapat dilakukan asalkan kamu mengetahui ini.
   Tips menambah subscribers nomor 3 paling ampuh bikin Auto monetisasi.
-featured: false
+featured: true
 img: ../../static/images/menambah-subscribers.jpg
 imgAlt: menambah subscribers
 tags:
