@@ -12,6 +12,8 @@ tags:
 ---
 Jadi seorang youtuber ialah karier yang paling diharapkan banyak janjikan dan orang. Tidaklah aneh, jika beberapa orang yang ingin coba membuat account youtube dan berpindah jadi youtuber. Kamu pernah dengar tidak? Saat youtuber menjelaskan untuk janganlah lupa subscriber akunnya. 
 
+{{% ads %}}
+
 Hal itu tentu saja benar-benar berpengaruh pada account youtubenya. Karena makin bertambah yang subscriber pasti kariernya akan jauh lebih bagus di dunia youtube, tetapi dengan persyaratan, harus memerlukan subscriber banyak, tidaklah aneh untuk seorang youtuber ingin terus menambahkan subscribernya.
 
 ## Tips Menambah Subscribers
