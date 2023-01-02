@@ -5,7 +5,7 @@ publishedDate: 2022-10-15T03:15:34.093Z
 description: Surat izin adalah surat yang dibuat untuk meminta izin dari
   seseorang atau suatu instansi untuk melakukan sesuatu. Surat izin biasanya
   ditujukan kepada pihak yang memiliki otoritas atau kewenangan
-featured: false
+featured: true
 img: ../../static/images/contoh-surat-izin-tidak-masuk-sekolah.png
 imgAlt: surat izin tidak masuk
 tags:
