@@ -6,7 +6,7 @@ description: I required to perform it quick, as well as I required to perform it
   right… however above all, I required it towards catch since I could not also
   picture lifestyle one more entire year the method my final a number of months
   possessed gone.
-featured: true
+featured: false
 img: ../../static/images/man-sunrise.jpeg
 imgAlt: "how completely changed "
 tags:
